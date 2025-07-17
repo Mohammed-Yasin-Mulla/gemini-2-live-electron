@@ -17,7 +17,6 @@ const elements = {
     sendBtn: document.getElementById('sendBtn'),
 
     // Visualizer canvas
-    visualizerCanvas: document.getElementById('visualizer')
 };
 
 export default elements;
